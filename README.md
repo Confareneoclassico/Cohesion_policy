@@ -1,4 +1,4 @@
-# Expenditure_modelling
-### Modelling expenditures from reimbursement of European funds: rationale, validation and ways forward
+# Cohesion policy
+### Improving the reliability of cohesion policy data bases
 
-Expenditures model and uncertainty analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Confareneoclassico/Expenditure_modelling/master)
+Expenditures model, uncertainty and sensitivity analysis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Confareneoclassico/Expenditure_modelling/master)
